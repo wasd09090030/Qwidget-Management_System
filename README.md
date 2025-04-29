@@ -1,3 +1,3 @@
 # Qwidget-Management_System
-学习QT后练手的一个项目
+学习QT后练手的一个项目<br>
 使用QWidget写的后台管理系统，主要使用了QWidget，数据库sqlite，通过模块化设计给不同的页面添加不同的功能。
